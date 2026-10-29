@@ -1,0 +1,6 @@
+C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\bin\Debug\VpilotNotify.dll
+C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\bin\Debug\VpilotNotify.pdb
+C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Debug\VpilotNotify.csproj.AssemblyReference.cache
+C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Debug\VpilotNotify.csproj.CoreCompileInputs.cache
+C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Debug\VpilotNotify.dll
+C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Debug\VpilotNotify.pdb
