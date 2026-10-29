@@ -1,6 +1,0 @@
-C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\bin\Release\VpilotNotify.dll
-C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\bin\Release\VpilotNotify.pdb
-C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Release\VpilotNotify.csproj.AssemblyReference.cache
-C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Release\VpilotNotify.csproj.CoreCompileInputs.cache
-C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Release\VpilotNotify.dll
-C:\Users\Alpino\source\repos\VpilotNotify\VpilotNotify\obj\Release\VpilotNotify.pdb
